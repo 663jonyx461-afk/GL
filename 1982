@@ -1,138 +1,99 @@
+#extm3u
 
-#EXTM3U 
-<iframe src="https://embedcanais.com/espn/" allow="autoplay; fullscreen; encrypted-media" frameborder="0" width="100%" height="550" loading="lazy"></iframe>
-#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL ✪ | CL
-https://globoplay.ssdtvdigital.workers.dev/session/tv_globo_rio_de_janeiro.m3u8
-#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL ✪ | CL
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="593" tvg-name="Agro Brasil TV" tvg-logo="https://cdn.m3u.cl/logo/593_Agro_Brasil_TV.png", Agro Brasil TV | BR
-https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577.m3u8?session=GxrnToeLVpURWXrzFL3puo&PlaylistM3UCL
-#EXTINF:-1 tvg-id="1028" tvg-name="ArarunaTV" tvg-logo="https://cdn.m3u.cl/logo/1028_ArarunaTV.png", ArarunaTV | BR
-https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="560" tvg-name="Band" tvg-logo="https://cdn.m3u.cl/logo/560_Band.png", Band | BR
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="547" tvg-name="Classique TV" tvg-logo="https://cdn.m3u.cl/logo/547_Classique_TV.png", Classique TV | BR
-https://stmv1.srvif.com/classique/classique/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1718" tvg-name="Kanade Brasil" tvg-logo="https://cdn.m3u.cl/logo/1718_Kanade_Brasil.png", Kanade Brasil | BR
-https://streams.kanade.cl/webtv/kanadebr/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:-1 tvg-id="572" tvg-name="Record News Espirito Santo" tvg-logo="https://cdn.m3u.cl/logo/572_Record_News_Espirito_Santo.png", Record News Espirito Santo | BR
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="583" tvg-name="Rede Brasil de Televisao" tvg-logo="https://cdn.m3u.cl/logo/583_Rede_Brasil_de_Televisao.png", Rede Brasil de Televisao | BR
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1307" tvg-name="Rede Mundo TV" tvg-logo="https://cdn.m3u.cl/logo/1307_Rede_Mundo_TV.png", Rede Mundo TV | BR
-https://stream.cdn.provider.play.virtual.tv.br/REDEMUNDOSP/index.fmp4.m3u8?token=TOP2929&PlaylistM3UCL
-#EXTINF:-1 tvg-id="982" tvg-name="Teleweb TV" tvg-logo="https://cdn.m3u.cl/logo/982_Teleweb_TV.png", Teleweb TV | BR
-https://video01.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="576" tvg-name="TV A Plateia" tvg-logo="https://cdn.m3u.cl/logo/576_TV_A_Plateia.png", TV A Plateia | BR
-https://video01.kshost.com.br/kamal3366/kamal3366/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="551" tvg-name="TV Água Boa" tvg-logo="https://cdn.m3u.cl/logo/551_TV_Agua_Boa.png", TV Água Boa | BR
-https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="577" tvg-name="TV Atividade" tvg-logo="https://cdn.m3u.cl/logo/577_TV_Atividade.png", TV Atividade | BR
-https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1296" tvg-name="TV Curuça" tvg-logo="https://cdn.m3u.cl/logo/1296_TV_Curuca.png", TV Curuça | BR
-https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="531" tvg-name="TV Destak" tvg-logo="https://cdn.m3u.cl/logo/531_TV_Destak.png", TV Destak | BR
-https://video03.logicahost.com.br/pascoal/pascoal/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="569" tvg-name="TV Difusora" tvg-logo="https://cdn.m3u.cl/logo/569_TV_Difusora.png", TV Difusora | BR
-https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="990" tvg-name="TV Difusora Leste" tvg-logo="https://cdn.m3u.cl/logo/990_TV_Difusora_Leste.png", TV Difusora Leste | BR
-https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="595" tvg-name="TV Difusora Sul" tvg-logo="https://cdn.m3u.cl/logo/595_TV_Difusora_Sul.png", TV Difusora Sul | BR
-https://stream.amsolution.net.br:8443/live/63b85859c05b5/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="536" tvg-name="TV Digital Birigui" tvg-logo="https://cdn.m3u.cl/logo/536_TV_Digital_Birigui.jpg", TV Digital Birigui | BR
-https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="524" tvg-name="TV Grande Natal HDTV" tvg-logo="https://cdn.m3u.cl/logo/524_TV_Grande_Natal_HDTV.jpg", TV Grande Natal HDTV | BR
-https://canalteste.duckdns.org:443/app/tvgrandenatalhdtv/llhls.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="529" tvg-name="TV Infor Bahia" tvg-logo="https://cdn.m3u.cl/logo/529_TV_Infor_Bahia.png", TV Infor Bahia | BR
-https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="542" tvg-name="TV Jornal do Nordeste" tvg-logo="https://cdn.m3u.cl/logo/542_TV_Jornal_do_Nordeste.png", TV Jornal do Nordeste | BR
-https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="989" tvg-name="TV Mais" tvg-logo="https://cdn.m3u.cl/logo/989_TV_Mais.png", TV Mais | BR
-https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="592" tvg-name="TV Maná Brasil" tvg-logo="https://cdn.m3u.cl/logo/592_TV_Mana_Brasil.png", TV Maná Brasil | BR
-https://w1.manasat.com:443/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1688" tvg-name="TV Metropolitana Jundiaí" tvg-logo="https://cdn.m3u.cl/logo/1688_TV_Metropolitana_Jundiai.png", TV Metropolitana Jundiaí | BR
-https://stmv7.samcast.com.br/tvmetropolitana9415/tvmetropolitana9415/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="567" tvg-name="TV Mundial" tvg-logo="https://cdn.m3u.cl/logo/567_TV_Mundial.jpg", TV Mundial | BR
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="586" tvg-name="TV Poços" tvg-logo="https://cdn.m3u.cl/logo/586_TV_Pocos.png", TV Poços | BR
-https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="532" tvg-name="TV Pombal" tvg-logo="https://cdn.m3u.cl/logo/532_TV_Pombal.png", TV Pombal | BR
-https://a.cdni.live/tvpombal/tvpombal/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="582" tvg-name="TV Rio Preto" tvg-logo="https://cdn.m3u.cl/logo/582_TV_Rio_Preto.png", TV Rio Preto | BR
-https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="535" tvg-name="TV Serra Verde" tvg-logo="https://cdn.m3u.cl/logo/535_TV_Serra_Verde.jpg", TV Serra Verde | BR
-https://5d82644094cc0.streamlock.net:443/8020/8020/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="992" tvg-name="TV Sim Cachoeiro" tvg-logo="https://cdn.m3u.cl/logo/992_TV_Sim_Cachoeiro.png", TV Sim Cachoeiro | BR
-https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="565" tvg-name="TV Sim Colatina" tvg-logo="https://cdn.m3u.cl/logo/565_TV_Sim_Colatina.png", TV Sim Colatina | BR
-https://5cf4a2c2512a2.streamlock.net:443/8132/8132/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="991" tvg-name="TV Sim Linhares" tvg-logo="https://cdn.m3u.cl/logo/991_TV_Sim_Linhares.png", TV Sim Linhares | BR
-https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="564" tvg-name="TV Sim Sao Mateus" tvg-logo="https://cdn.m3u.cl/logo/564_TV_Sim_Sao_Mateus.png", TV Sim Sao Mateus | BR
-https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="993" tvg-name="TV Sim Vitória" tvg-logo="https://cdn.m3u.cl/logo/993_TV_Sim_Vitoria.png", TV Sim Vitória | BR
-https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="544" tvg-name="TV Sul" tvg-logo="https://cdn.m3u.cl/logo/544_TV_Sul.jpg", TV Sul | BR
-https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1297" tvg-name="TV Ti Vejo" tvg-logo="https://cdn.m3u.cl/logo/1297_TV_Ti_Vejo.png", TV Ti Vejo | BR
-https://stmv1.srvif.com/ddacostenaro/ddacostenaro/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="575" tvg-name="TV Vicosa" tvg-logo="https://cdn.m3u.cl/logo/575_TV_Vicosa.jpg", TV Vicosa | BR
-http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="591" tvg-name="TVE" tvg-logo="https://cdn.m3u.cl/logo/591_TVE.jpg", TVE | BR
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="562" tvg-name="Via Morena" tvg-logo="https://cdn.m3u.cl/logo/562_Via_Morena.png", Via Morena | BR
-https://video02.logicahost.com.br/viamorena/viamorena/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="988" tvg-name="Vintage TV" tvg-logo="https://cdn.m3u.cl/logo/988_Vintage_TV.png", Vintage TV | BR
-https://video01.kshost.com.br/rogerio7271/rogerio7271/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1311" tvg-name="Yeeaah TV" tvg-logo="https://cdn.m3u.cl/logo/1311_Yeeaah_TV.png", Yeeaah TV | BR
-https://stmv2.painelvideo.top/polidorotv/polidorotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="574" tvg-name="All Sports" tvg-logo="https://cdn.m3u.cl/logo/574_All_Sports.png", All Sports | BR
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1697" tvg-name="Drive Channel TV" tvg-logo="https://cdn.m3u.cl/logo/1697_Drive_Channel_TV.jpg", Drive Channel TV | BR
-https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="559" tvg-name="Canal 29" tvg-logo="https://cdn.m3u.cl/logo/559_Canal_29.png", Canal 29 | BR
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1169" tvg-name="Geekdot" tvg-logo="https://cdn.m3u.cl/logo/1169_Geekdot.png", Geekdot | BR
-https://stream.ichibantv.com:3764/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="528" tvg-name="Gospel Cartoon" tvg-logo="https://cdn.m3u.cl/logo/528_Gospel_Cartoon.png", Gospel Cartoon | BR
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="554" tvg-name="ISTV" tvg-logo="https://cdn.m3u.cl/logo/554_ISTV.jpg", ISTV | BR
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="534" tvg-name="Kuriakos Kids" tvg-logo="https://cdn.m3u.cl/logo/534_Kuriakos_Kids.png", Kuriakos Kids | BR
-https://w2.manasat.com:443/kkids/smil:kkids.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="555" tvg-name="Retro Cartoon" tvg-logo="https://cdn.m3u.cl/logo/555_Retro_Cartoon.png", Retro Cartoon | BR
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="556" tvg-name="TV Aracati" tvg-logo="https://cdn.m3u.cl/logo/556_TV_Aracati.jpg", TV Aracati | BR
-https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="579" tvg-name="TV J.SID" tvg-logo="https://cdn.m3u.cl/logo/579_TV_J_SID.jpg", TV J.SID | BR
-https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="550" tvg-name="TV Japi" tvg-logo="https://cdn.m3u.cl/logo/550_TV_Japi.png", TV Japi | BR
-https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1449" tvg-name="Dance Floor TV" tvg-logo="https://cdn.m3u.cl/logo/1449_Dance_Floor_TV.png", Dance Floor TV | BR
-https://srv3.zcast.com.br/andre3354/andre3354/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="782" tvg-name="Kpop TV" tvg-logo="https://cdn.m3u.cl/logo/782_Kpop_TV.jpg", Kpop TV | BR
-https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV | CL
-https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="546" tvg-name="Top TV" tvg-logo="https://cdn.m3u.cl/logo/546_Top_TV.png", Top TV | BR
-https://isaocorp.cloudecast.com/toptv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="540" tvg-name="Gospel Movies Television" tvg-logo="https://cdn.m3u.cl/logo/540_Gospel_Movies_Television.jpg", Gospel Movies Television | BR
-https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="165" tvg-name="Nuevo Tiempo" tvg-logo="https://cdn.m3u.cl/logo/165_Nuevo_Tiempo.png", Nuevo Tiempo | BR
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="571" tvg-name="Rede Vida" tvg-logo="https://cdn.m3u.cl/logo/571_Rede_Vida.jpg", Rede Vida | BR
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="570" tvg-name="TV Aparecida" tvg-logo="https://cdn.m3u.cl/logo/570_TV_Aparecida.jpg", TV Aparecida | BR
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1483" tvg-name="TV Apostolos" tvg-logo="https://cdn.m3u.cl/logo/1483_TV_Apostolos.png", TV Apostolos | BR
-https://stmv3.voxtvhd.com.br/tvapostolo/tvapostolo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="537" tvg-name="TV Evangelizar" tvg-logo="https://cdn.m3u.cl/logo/537_TV_Evangelizar.png", TV Evangelizar | BR
-https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="566" tvg-name="TV Rede Gospel" tvg-logo="https://cdn.m3u.cl/logo/566_TV_Rede_Gospel.jpg", TV Rede Gospel | BR
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="563" tvg-name="TV Universal" tvg-logo="https://cdn.m3u.cl/logo/563_TV_Universal.jpg", TV Universal | BR
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1692" tvg-name="PRIDEtv Latam" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png", PRIDEtv Latam | CL
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+changed
++31
+-30
+lines changed
+Search within code
+ 
+‎PLAYLISTS.md‎
++31
+-30
+Lines changed: 31 additions & 30 deletions
+
+
+Original file line number	Diff line number	Diff line change
+@@ -22,37 +22,37 @@ Same thing, but split up into separate files:
+    <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Animation</td><td align="right">59</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/animation.m3u</code></td></tr>
+    <tr><td>Animation</td><td align="right">60</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/animation.m3u</code></td></tr>
+    <tr><td>Auto</td><td align="right">17</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
+    <tr><td>Business</td><td align="right">70</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
+    <tr><td>Classic</td><td align="right">50</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/classic.m3u</code></td></tr>
+    <tr><td>Classic</td><td align="right">51</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/classic.m3u</code></td></tr>
+    <tr><td>Comedy</td><td align="right">76</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/comedy.m3u</code></td></tr>
+    <tr><td>Cooking</td><td align="right">32</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/cooking.m3u</code></td></tr>
+    <tr><td>Culture</td><td align="right">169</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/culture.m3u</code></td></tr>
+    <tr><td>Documentary</td><td align="right">112</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/documentary.m3u</code></td></tr>
+    <tr><td>Documentary</td><td align="right">114</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/documentary.m3u</code></td></tr>
+    <tr><td>Education</td><td align="right">183</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/education.m3u</code></td></tr>
+    <tr><td>Entertainment</td><td align="right">606</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/entertainment.m3u</code></td></tr>
+    <tr><td>Family</td><td align="right">54</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/family.m3u</code></td></tr>
+    <tr><td>General</td><td align="right">2452</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/general.m3u</code></td></tr>
+    <tr><td>Entertainment</td><td align="right">610</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/entertainment.m3u</code></td></tr>
+    <tr><td>Family</td><td align="right">55</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/family.m3u</code></td></tr>
+    <tr><td>General</td><td align="right">2454</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/general.m3u</code></td></tr>
+    <tr><td>Interactive</td><td align="right">1</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/interactive.m3u</code></td></tr>
+    <tr><td>Kids</td><td align="right">244</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/kids.m3u</code></td></tr>
+    <tr><td>Kids</td><td align="right">246</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/kids.m3u</code></td></tr>
+    <tr><td>Legislative</td><td align="right">186</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/legislative.m3u</code></td></tr>
+    <tr><td>Lifestyle</td><td align="right">98</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/lifestyle.m3u</code></td></tr>
+    <tr><td>Movies</td><td align="right">368</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/movies.m3u</code></td></tr>
+    <tr><td>Music</td><td align="right">629</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/music.m3u</code></td></tr>
+    <tr><td>News</td><td align="right">898</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/news.m3u</code></td></tr>
+    <tr><td>Movies</td><td align="right">384</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/movies.m3u</code></td></tr>
+    <tr><td>Music</td><td align="right">626</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/music.m3u</code></td></tr>
+    <tr><td>News</td><td align="right">905</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/news.m3u</code></td></tr>
+    <tr><td>Outdoor</td><td align="right">45</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/outdoor.m3u</code></td></tr>
+    <tr><td>Public</td><td align="right">41</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/public.m3u</code></td></tr>
+    <tr><td>Relax</td><td align="right">4</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/relax.m3u</code></td></tr>
+    <tr><td>Religious</td><td align="right">734</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/religious.m3u</code></td></tr>
+    <tr><td>Religious</td><td align="right">737</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/religious.m3u</code></td></tr>
+    <tr><td>Science</td><td align="right">24</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/science.m3u</code></td></tr>
+    <tr><td>Series</td><td align="right">216</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/series.m3u</code></td></tr>
+    <tr><td>Series</td><td align="right">217</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/series.m3u</code></td></tr>
+    <tr><td>Shop</td><td align="right">88</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/shop.m3u</code></td></tr>
+    <tr><td>Sports</td><td align="right">296</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/sports.m3u</code></td></tr>
+    <tr><td>Sports</td><td align="right">306</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/sports.m3u</code></td></tr>
+    <tr><td>Travel</td><td align="right">41</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/travel.m3u</code></td></tr>
+    <tr><td>Weather</td><td align="right">16</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/weather.m3u</code></td></tr>
+    <tr><td>XXX</td><td align="right">0</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/xxx.m3u</code></td></tr>
+    <tr><td>Undefined</td><td align="right">3241</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/undefined.m3u</code></td></tr>
+    <tr><td>Undefined</td><td align="right">3247</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/undefined.m3u</code></td></tr>
+  </tbody>
+</table>
+
+@@ -88,7 +88,7 @@ Same thing, but split up into separate files:
+    <tr><td align="left">Algerian Sign Language</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/asp.m3u</code></td></tr>
+    <tr><td align="left">Alur</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/alz.m3u</code></td></tr>
+    <tr><td align="left">Amharic</td><td align="right">6</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/amh.m3u</code></td></tr>
+    <tr><td align="left">Arabic</td><td align="right">368</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ara.m3u</code></td></tr>
+    <tr><td align="left">Arabic</td><td align="right">370</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ara.m3u</code></td></tr>
+    <tr><td align="left">Armenian</td><td align="right">6</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/hye.m3u</code></td></tr>
+    <tr><td align="left">Assamese</td><td align="right">9</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/asm.m3u</code></td></tr>
+    <tr><td align="left">Assyrian Neo-Aramaic</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/aii.m3u</code></td></tr>
+@@ -100,7 +100,7 @@ Same thing, but split up into separate files:
+    <tr><td align="left">Bashkir</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/bak.m3u</code></td></tr>
+    <tr><td align="left">Basque</td><td align="right">6</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/eus.m3u</code></td></tr>
+    <tr><td align="left">Belarusian</td><td align="right">4</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/bel.m3u</code></td></tr>
+    <tr><td align="left">Bengali</td><td align="right">51</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ben.m3u</code></td></tr>
+    <tr><td align="left">Bengali</td><td align="right">55</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ben.m3u</code></td></tr>
+    <tr><td align="left">Bhojpuri</td><td align="right">6</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/bho.m3u</code></td></tr>
+    <tr><td align="left">Bisa</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/bib.m3u</code></td></tr>
+    <tr><td align="left">Bosnian</td><td align="right">14</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/bos.m3u</code></td></tr>
+@@ -127,7 +127,7 @@ Same thing, but split up into separate files:
+    <tr><td align="left">Dutch</td><td align="right">180</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/nld.m3u</code></td></tr>
+    <tr><td align="left">Dyula</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/dyu.m3u</code></td></tr>
+    <tr><td align="left">Egyptian Arabic</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/arz.m3u</code></td></tr>
+    <tr><td align="left">English</td><td align="right">2337</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/eng.m3u</code></td></tr>
+    <tr><td align="left">English</td><td align="right">2361</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/eng.m3u</code></td></tr>
+    <tr><td align="left">Estonian</td><td align="right">9</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/est.m3u</code></td></tr>
+    <tr><td align="left">Ewe</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ewe.m3u</code></td></tr>
+    <tr><td align="left">Faroese</td><td align="right">3</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/fao.m3u</code></td></tr>
+@@ -148,16 +148,16 @@ Same thing, but split up into separate files:
+    <tr><td align="left">Gourmanchéma</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/gux.m3u</code></td></tr>
+    <tr><td align="left">Greek</td><td align="right">107</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ell.m3u</code></td></tr>
+    <tr><td align="left">Guadeloupean Creole French</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/gcf.m3u</code></td></tr>
+    <tr><td align="left">Gujarati</td><td align="right">9</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/guj.m3u</code
